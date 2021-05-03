@@ -94,6 +94,7 @@ exports.createSchemaCustomization = ({ actions }) => {
     }
 
     type Social {
+      faceook: String
       twitter: String
     }
 

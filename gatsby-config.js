@@ -1,14 +1,15 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Westbury Music`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Vincent D'Arrigo`,
+      summary: `and I've helped hundreds of musicians reach their guitar goals ranging from: learning a few simple tunes to entertain friends, to getting into top music performance colleges, to helping professional musicians break through skill plateus and gaps in advanced theory.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      facebook: `https://www.facebook.com/people/Westbury-Music/100043117032891`,
+      twitter: `twitter.com`,
     },
   },
   plugins: [
